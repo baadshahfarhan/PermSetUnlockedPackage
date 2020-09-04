@@ -11,6 +11,7 @@
   "sourceApiVersion" : "47.0",
   "packageAliases" : {
     "Minion" : "0Ho4W000000sYARSA2",
-    "Minion@1.0.0.0" : "04t4W000001pi54QAA"
+    "Minion@1.0.0.0" : "04t4W000001pi54QAA",
+    "Minion@2.0.0.0" : "04t4W000001pi9HQAQ"
   }
 }
